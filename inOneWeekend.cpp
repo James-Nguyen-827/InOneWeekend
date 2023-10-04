@@ -23,5 +23,6 @@ int main() {
             cout << ir << " " << ig << " " << ib << "\n";
         }
     }
+    clog << "\rDone.            \n";
     return 0;
 }
